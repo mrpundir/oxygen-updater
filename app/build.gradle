@@ -152,6 +152,10 @@ dependencies {
     implementation 'com.google.firebase:firebase-messaging:15.0.2'
     implementation 'com.google.android.gms:play-services-base:15.0.1'
 
+    // Update downloader library
+    implementation 'com.mindorks.android:prdownloader:0.5.0'
+
+
     // Update installation libraries
     implementation 'eu.chainfire:libsuperuser:1.0.0.201704021214'
     implementation 'andhradroid.dev:aFilechooser:1.0.1'
